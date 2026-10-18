@@ -1,0 +1,11 @@
+{
+  "name": "djuk-collection-bold",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Djuk Collection — Bold Edition",
+  "scripts": {
+    "start": "python3 -m http.server 4174",
+    "check": "node --check app.js && node --check motion.js"
+  }
+}
